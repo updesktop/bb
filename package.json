@@ -1,0 +1,23 @@
+{
+  "name": "simple-pwa",
+  "version": "1.0.0",
+  "description": "just testing out",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.19.2",
+    "express-force-ssl": "^0.3.2",
+    "mkcert": "^1.5.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0",
+    "puppeteer": "^22.4.0"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+
+  "author": "JBE",
+  "license": "ISC"
+}

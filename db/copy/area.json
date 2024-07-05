@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Alangilan",
+    "areano": "4"
+  },
+  {
+    "name": "Ayala",
+    "areano": "6"
+  },
+  {
+    "name": "Ayala Mobile",
+    "areano": "7"
+  },
+  {
+    "name": "Banago",
+    "areano": "8"
+  },
+  {
+    "name": "Bata",
+    "areano": "9"
+  },
+  {
+    "name": "BJMP",
+    "areano": "10"
+  },
+  {
+    "name": "BQMH",
+    "areano": "11"
+  },
+  {
+    "name": "Burgos Market",
+    "areano": "12"
+  },
+  {
+    "name": "Cabug",
+    "areano": "13"
+  },
+  {
+    "name": "Casino",
+    "areano": "14"
+  },
+  {
+    "name": "CDOHO",
+    "areano": "15"
+  },
+  {
+    "name": "Central Market",
+    "areano": "16"
+  },
+  {
+    "name": "Chamber",
+    "areano": "17"
+  },
+  {
+    "name": "CHMSC Alijis",
+    "areano": "18"
+  },
+  {
+    "name": "CHO",
+    "areano": "19"
+  },
+  {
+    "name": "CHO Mobile (NGC)",
+    "areano": "20"
+  },
+  {
+    "name": "CLMMRH",
+    "areano": "21"
+  },
+  {
+    "name": "The Doctor's Hospital",
+    "areano": "22"
+  },
+  {
+    "name": "Estefania",
+    "areano": "23"
+  },
+  {
+    "name": "ETCS",
+    "areano": "24"
+  },
+  {
+    "name": "Felisa",
+    "areano": "25"
+  },
+  {
+    "name": "Gaisano Red Cross",
+    "areano": "26"
+  },
+  {
+    "name": "Granada",
+    "areano": "27"
+  },
+  {
+    "name": "Handumanan",
+    "areano": "28"
+  },
+  {
+    "name": "Jaena - Libertad",
+    "areano": "29"
+  },
+  {
+    "name": "La Salle",
+    "areano": "30"
+  },
+  {
+    "name": "Lopez Jaena",
+    "areano": "32"
+  },
+  {
+    "name": "Mabini",
+    "areano": "33"
+  },
+  {
+    "name": "Mandalagan",
+    "areano": "34"
+  },
+  {
+    "name": "Mansilingan",
+    "areano": "35"
+  },
+  {
+    "name": "MBHMC",
+    "areano": "36"
+  },
+  {
+    "name": "Mercury",
+    "areano": "37"
+  },
+  {
+    "name": "Mercury Mobile (Dana)",
+    "areano": "38"
+  },
+  {
+    "name": "Mercury Mobile (Kye)",
+    "areano": "39"
+  },
+  {
+    "name": "Monte Vista",
+    "areano": "40"
+  },
+  {
+    "name": "NGC / Coke",
+    "areano": "41"
+  },
+  {
+    "name": "NGC Lobby",
+    "areano": "42"
+  },
+  {
+    "name": "NOHS",
+    "areano": "43"
+  },
+  {
+    "name": "PAGCOR",
+    "areano": "44"
+  },
+  {
+    "name": "Paglaum",
+    "areano": "45"
+  },
+  {
+    "name": "Pahanocoy",
+    "areano": "46"
+  },
+  {
+    "name": "Panasiatic",
+    "areano": "47"
+  },
+  {
+    "name": "Pta. Taytay",
+    "areano": "48"
+  },
+  {
+    "name": "San Juan",
+    "areano": "49"
+  },
+  {
+    "name": "SBGH",
+    "areano": "50"
+  },
+  {
+    "name": "Singcang",
+    "areano": "51"
+  },
+  {
+    "name": "SJI",
+    "areano": "52"
+  },
+  {
+    "name": "SM",
+    "areano": "53"
+  },
+  {
+    "name": "Sum-ag",
+    "areano": "54"
+  },
+  {
+    "name": "Taculing",
+    "areano": "55"
+  },
+  {
+    "name": "Tangub",
+    "areano": "56"
+  },
+  {
+    "name": "Transcom",
+    "areano": "57"
+  },
+  {
+    "name": "Ubiquity",
+    "areano": "58"
+  },
+  {
+    "name": "USLS DOH Mobile",
+    "areano": "59"
+  },
+  {
+    "name": "Villa Esperanza",
+    "areano": "60"
+  },
+  {
+    "name": "Villamonte",
+    "areano": "61"
+  },
+  {
+    "name": "Vista Alegre",
+    "areano": "62"
+  },
+  {
+    "name": "Granada Lying-in",
+    "areano": "63"
+  },
+  {
+    "name": "Amity",
+    "areano": "64"
+  },
+  {
+    "name": "Libertad",
+    "areano": "65"
+  },
+  {
+    "name": "Lying-in CHO",
+    "areano": "66"
+  },
+  {
+    "name": "AMOSUP",
+    "areano": "67"
+  },
+  {
+    "name": "CHO RM1",
+    "areano": "68"
+  },
+  {
+    "name": "RMCI",
+    "areano": "69"
+  },
+  {
+    "name": "PNP",
+    "areano": "70"
+  },
+  {
+    "name": "Bacolod City College",
+    "areano": "71"
+  },
+  {
+    "name": "CHO / Mental",
+    "areano": "72"
+  },
+  {
+    "name": "STI",
+    "areano": "73"
+  },
+  {
+    "name": "CHO NGC",
+    "areano": "75"
+  },
+  {
+    "name": "Medical Plaza",
+    "areano": "76"
+  },
+  {
+    "name": "CSAB",
+    "areano": "77"
+  },
+  {
+    "name": "LCC",
+    "areano": "78"
+  },
+  {
+    "name": "EAGLES",
+    "areano": "79"
+  },
+  {
+    "name": "DOH MOBILE",
+    "areano": "80"
+  },
+  {
+    "name": "Merzci",
+    "areano": "81"
+  },
+  {
+    "name": "Well Family Granado",
+    "areano": "82"
+  },
+  {
+    "name": "Robinsons Place Mandalagan",
+    "areano": "83"
+  },
+  {
+    "name": "CHMSU Alijis",
+    "areano": "84"
+  },
+  {
+    "name": "Lopues East",
+    "areano": "85"
+  },
+  {
+    "name": "Una Konsulta",
+    "areano": "86"
+  },
+  {
+    "name": "BAMC",
+    "areano": "87"
+  },
+  {
+    "name": "Gaisano",
+    "areano": "88"
+  },
+  {
+    "name": "GC &amp; C",
+    "areano": "89"
+  },
+  {
+    "name": "RTSI Dialysis",
+    "areano": "91"
+  },
+  {
+    "name": "L' Fisher",
+    "areano": "92"
+  },
+  {
+    "name": "CHO Supply Office",
+    "areano": "93"
+  },
+  {
+    "name": "CHO / Coldroom",
+    "areano": "94"
+  }
+]
